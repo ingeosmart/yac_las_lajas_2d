@@ -1,0 +1,1 @@
+var json_yacimientolaslajas_17 = {"type":"FeatureCollection","name":"yacimientolaslajas_17","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"ID":0.0,"LOCALIDAD":"YACIMIENTO LAS LAJAS"},"geometry":{"type":"Point","coordinates":[-69.888204835426933,-47.773267518092943]}}]}
